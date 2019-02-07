@@ -12,10 +12,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/floatinghotpot/cordova-facebook-audnet-sdk.git"
+    "url": "https://github.com/Be4t5/cordova-facebook-audnet-sdk.git"
   },
   "bugs": {
-    "url": "https://github.com/floatinghotpot/cordova-facebook-audnet-sdk/issues"
+    "url": "https://github.com/Be4t5/cordova-facebook-audnet-sdk/issues"
   },
   "keywords": [
     "cordova",
